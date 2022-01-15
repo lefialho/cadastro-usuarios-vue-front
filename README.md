@@ -1,24 +1,28 @@
-# cadastro-usuarios
+# cadastro de usuários
 
-## Project setup
+Esse projeto tem por finalidade a **simulação** do cadastro de usuários utilizando **apenas o front-end**.
+<br />As tecnologias utilizadas foram:
+ 
+ - Vue JS;
+ - json-server para simular a api;
+ - Axios para fazer a manipulação dos dados;
+
+## Setup do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para compilar
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Para rodar o servidor
+```
+npm run start-server
+```
+
+### Compilar e minificar para produção
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
