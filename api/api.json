@@ -1,0 +1,50 @@
+{
+  "usuario": [
+    {
+      "id": "leandro.fialho@outlook.com",
+      "nome": "Leandrinho Fialho",
+      "email": "leandro.fialho@outlook.com",
+      "senha": "123423432",
+      "cpf": "123.132.132-11",
+      "pais": "Brasil",
+      "estado": "SP",
+      "municipio": "Juiz de Fora",
+      "cep": "36033-290",
+      "pis": "122.14214.21-4",
+      "rua": "Rua Ministro Amarílio Lopes Salgado",
+      "numero": "566",
+      "complemento": "apto 504",
+      "uf": "MG"
+    },
+    {
+      "id": "leandroaparecido13@yahoo.com.br",
+      "nome": "Leandrito",
+      "email": "leandroaparecido13@yahoo.com.br",
+      "senha": "13414454545",
+      "cpf": "233.312.223-43",
+      "pais": "Brasil",
+      "estado": "MG",
+      "municipio": "Juiz de Fora",
+      "cep": "36010-040",
+      "pis": "234.23909.40-2",
+      "rua": "Rua Espírito Santo",
+      "numero": "13133",
+      "complemento": "de 0393/394 a 796/797"
+    },
+    {
+      "id": "scottfialho13@gmail.com",
+      "nome": "Scotin",
+      "email": "scottfialho13@gmail.com",
+      "senha": "auauau13",
+      "cpf": "123.123.123-21",
+      "pais": "Brasil",
+      "estado": "MG",
+      "municipio": "Juiz de Fora",
+      "cep": "36033290",
+      "pis": "232.13123.12-3",
+      "rua": "Rua Ministro Amarílio Lopes Salgado",
+      "numero": "149",
+      "complemento": "apto 301"
+    }
+  ]
+}
