@@ -21,8 +21,3 @@ npm run serve
 ```
 npm run start-server
 ```
-
-### Compilar e minificar para produção
-```
-npm run build
-```
